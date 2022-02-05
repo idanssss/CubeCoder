@@ -1,0 +1,6 @@
+{
+    "window": { "width": 500, "height": 500 },
+    "square": {
+        "position": { "x": 0, "y": 0},
+        "codeName": "cube" }
+}

@@ -1,0 +1,1 @@
+function loadLevel(path) { return JSON.parse(path); }
